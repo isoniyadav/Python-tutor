@@ -1,0 +1,4 @@
+.app-container { text-align: center; font-family: Arial, sans-serif; }
+.home, .settings, .chat { margin: 20px; padding: 10px; border-radius: 8px; background: #f4f4f4; }
+input, button { padding: 8px; margin: 5px; }
+.chat-box { min-height: 200px; border: 1px solid #ddd; padding: 10px; background: #fff; }
